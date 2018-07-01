@@ -1,0 +1,91 @@
+PART_I:
+  title: Introduction
+  content:
+    MISSION_0:
+      title: Mission 0 - APP 0
+      content: 
+        way_of_the_program.rst:
+          title: Introduction to programming
+    MISSION_1:
+      title: Mission 1 - Basics
+      content:
+        variables_expressions_statements.rst:
+          title: Variables and expressions
+        hello_little_turtles.rst:
+          title: Turtle
+        modules.rst:
+          title: Modules
+    MISSION_2:
+      title: Mission 2 - Control structures
+      content:
+        conditionals.rst:
+          title: Conditions
+        iteration.rst:
+          title: Iteration
+    MISSION_3:
+      title: Mission 3 - Functions 
+      content:
+        functions.rst:
+          title: Functions
+        fruitful_functions.rst:
+          title: Fruitful functions
+PART_II:
+  title: Data Structures
+  content:
+    MISSION_4:
+      title: Mission 4 - Strings and lists
+      content: 
+        events.rst:
+          title: Interaction with the program
+        strings.rst:
+          title: Strings
+        lists.rst:
+          title: Lists
+    MISSION_5:
+      title: Mission 5 - Nested data structures
+      content:
+        lists.rst:
+          title: Lists
+        tuples.rst:
+          title: Tuples
+    MISSION_6:
+      title: Mission 6 - Files and exceptions
+      content:
+        files.rst:
+          title: Files
+        exceptions.rst:
+          title: Exceptions
+    MISSION_7:
+      title: Mission 7 - Dictionaries and iterators
+      content:
+        dictionaries.rst:
+          title: Dictionaries
+PART_III:
+  title: Objects
+  content:
+    MISSION_8:
+      title: Mission 8 - Recursion and higher order
+      content: 
+        recursion.rst:
+          title: Recursion
+    MISSION_9:
+      title: Mission 9 - Class and objects
+      content:
+        classes_and_objects_I.rst:
+          title: Basics of class and objects
+        classes_and_objects_II.rst:
+          title: Advanced class and objects
+    MISSION_10:
+      title: Mission 10 - Polymorphism and inheritance
+      content:
+        even_more_oop.rst:
+          title: Even more OOP
+        collections.rst:
+          title: Collections
+        inheritance.rst:
+          title: Inheritance
+    MISSION_11:
+      title: Mission 11 - Linked lists
+      content:
+        linked_lists.rst:
+          title: Linked lists
